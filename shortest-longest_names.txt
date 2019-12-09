@@ -1,5 +1,5 @@
 # SQL_Query_Nice
-Sort words on the basis on length characters
+Sort words on the basis on character length
 
 OBJECTIVE:
 Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths
