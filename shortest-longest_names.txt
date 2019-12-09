@@ -20,7 +20,7 @@ Colums in Table STATION
 */
 
 
-QUERY:
+QUERY IN MY SQL:
 
 select city,length(city) from STATION
 order by length(city) ASC,left(city,3) ASC 
