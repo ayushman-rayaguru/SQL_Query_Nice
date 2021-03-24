@@ -1,0 +1,1 @@
+SELECT to_hex(column1) as column1,to_hex(column2) as column2 FROM numbers
